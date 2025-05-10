@@ -61,7 +61,3 @@ The server will run on `http://localhost:5000` by default.
 ## Contributing
 
 Feel free to submit issues or pull requests for improvements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License.
